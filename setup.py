@@ -8,5 +8,5 @@ setup(
     description='Package containing Python Scripts for DS5100 in-class M09',
     packages=find_packages(),
     license='MIT',
-    install_requires=['pandas >= 1.1.3']
+    install_requires=['pandas >= 0.20.0']
 )
